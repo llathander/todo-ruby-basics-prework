@@ -36,6 +36,9 @@ end
 
 last_evaluated_value()
 
-def pizza_party
+def pizza_party(omfg = "cheese")
+  omfg
 
 end
+
+pizza_party()
